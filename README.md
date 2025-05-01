@@ -1,2 +1,4 @@
 # coffee-page
-Landing Page desenvolvida com HTML e CSS.
+Landing Page de uma cafeteria, desenvolvida com HTML e CSS.
+
+Projeto criado apenas com o intuito de praticar as tecnologias acima.
